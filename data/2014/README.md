@@ -9,3 +9,5 @@ Kohaliku omavalitsuse üksuste ametiasutused:
 2. [Ametnike põhipalk ja muutuvpalk ning teenistusülesannete täitmisest tulenev muu tulu 01.01.-31.12.2014](Aasta_kogupalk_2014_KOV.xlsx)
 
 Allikas: http://avalikteenistus.ee/index.php?id=41596
+
+Projekti andmefail (töödeldud csv): [palgad_riik.csv.zip](/data/palgad_riik.csv.zip)
